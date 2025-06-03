@@ -1,1 +1,1 @@
-# werewolves-game
+# werewolf-game
